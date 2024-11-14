@@ -9,7 +9,7 @@ import {
 
 const BannerCarousel = () => {
     return (
-        <Carousel className='realtive px-4 py-2 border border-b-1'
+        <Carousel className='realtive p-2 border border-b-1'
             opts={{
                 align: "start",
                 loop: true,
